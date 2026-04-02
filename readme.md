@@ -16,9 +16,9 @@ Ajudar desenvolvedores e usuários a criarem prompts mais claros, estruturados e
 ```
 prompts/
  ├── agent.md
- ├── study.md
+ ├── ask.md
  ├── plan.md
- └── ask.md
+ └── study.md
 ```
 
 Cada arquivo representa uma etapa do método ASK.
